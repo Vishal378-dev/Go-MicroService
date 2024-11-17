@@ -33,7 +33,7 @@ func main() {
 			}
 		}
 
-		time.Sleep(time.Second * 1)
+		time.Sleep(time.Second * 5)
 		fmt.Printf("Coordinates are %+v \n", coordinatesArr)
 	}
 }
